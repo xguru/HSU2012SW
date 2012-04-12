@@ -1,0 +1,42 @@
+1)iPhone - When you plug your iPhone, it vibrates to indicate that it’s charging.
+아이폰을 충전이나 데이터 전송을 위해 플러그 연결 했을 때, 떨림으로써 연결이 됐음을 알려준다.
+일반인에게도 좋을뿐만 아니라 시작장애인에게도 편리한 기능인 것 같다.
+
+2)iOS - If you tap the camera icon in the lock screen of iOS 5.1, it bounces up to encourage you to slide.
+ios에 이번에 추가된 기능인데, 락화면에서 카메라 아이콘을 누르면 화면이 덜컹거리고 흔들리게 된다.
+사용자로 하여금 사용하는 방법을 일러주는 것이라고 생각된다. 
+화면을 위로 밀면 카메라 사용이 가능하다. 이전에 있었던 홈버튼 더블클릭에 비해 훨씬 간편해졌다.
+
+3)iPad Keyboard - There are phantom keys in the middle when you split the keyboard in half.
+ios5.0 동영상에서 가장 인상 깊었던 것은 개인적으로 키보드를 반으로 나눠 사용하는 것(아이패드 전용)이였다. 
+그런데 키보드를 나눈 가운데부분의 좌우에 보이지 않는 키(팬텀키)가 있다고 한다.
+사용자를 위한 보이지 않는 깔끔한 배려인것 같다.
+
+4)Newsstand - The cover of each publication updates automatically in both the icon and the popup.
+뉴스 가판대에서 내가 구독하는 잡지, 신문의 표지를 자동으로 업데이트된 상태로 볼 수 있다.
+아이폰에서는 작게 보여 그렇게 가독성이 좋지 않지만 아이패드 사용자라면 표지를 통해 관심있는 구독물을 먼저 체크할 수 있게 하는 것 같다.
+
+5)Google - When searching for ascii, the logo changes to actual ascii art.
+디테일답게 작다. 그리고 귀엽다. 아스키를 검색하면 구글 로고가 아스키 아트로 바뀌는 디테일이다.
+그런데 한국google에서는 안 되는 것 같다.
+
+6)Mac App Store - When an update is available, the counter stays on even when you quit the application.
+디테일 중 가장 많이 보면서 가장 귀찮으면서 가장 필요한 것이다. 앱스토에 뜨면 정말 귀찮고, 카카오톡에 뜨면 반갑다. 
+필요한 업데이트나 새소식이 있으면 아이콘이나 폴더 오른쪽 상단에 숫자가 뜨는 디테일이다.
+
+7)Chrome - After you copy a URL from the navigation bar, it automatically adds http:// in front of it when you paste it somewhere else. 
+주소창에서 url을 복사해서 다른곳에 붙여넣기하면 자동으로 http://가 url앞에 붙는 디테일이다.
+7타자씩이나 덜 쓰게 해주는 고마운 디테일이다.
+
+8)Chrome - When closing tabs in chrome, the position of the close button remains the same on both sides.
+크롬사용자로써 가장 반가운 기능이다. 구글링을 할 때 자주 사용하는데, 여러개의 창을 켜놨을 때, 
+사용하지 않는 페이지를 닫을때 같은쪽에서 닫을 수 있도록 배려해준 기능이다.
+
+9)iPhone - Turn shift blue via double click and continue in capslock.
+shift키를 더블클릭하면 해제할때까지 계속 대문자, 된소리를 입력할 수 있다. 
+한국인 사용자에게는 별로 큰 기능을 하지 못하는 디테일이지만 알파벳을 사용하는 사용자들에게는 대문자만 입력할 때 유용한 기능인것 같다.
+
+10)Soundcloud - Tab name changes as soon as you play a song
+페이스북에 음악을 올릴때 자주 사용하는 사운드클라우드의 디테일이다.
+음악을 플레이하면 탭에 지금 재생중인 음악의 제목이 나오는 기능이다. 
+추천곡을 켜놓고 다른일을 할 때 굳이 다른 탭으로 옮기지 않고 제목을 확인할 수 있어 좋다.
