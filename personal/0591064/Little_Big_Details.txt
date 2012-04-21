@@ -1,0 +1,39 @@
+1. http://littlebigdetails.com/post/18949480371/youtube-when-watching-a-video-exceeding-one-hour
+한시간 이상의 동영상 재생시 2분 단위로 세밀하게 제어할 수 있는 타임프레임을 제공한다.
+동영상의 재생 시간이 길어 타임라인을 세심하게 제어하기 힘들때 유용할 것 같다.
+
+2. http://littlebigdetails.com/post/17373200275/youtube-when-typing-in-the-search-box-the
+동영상을 보는중에 검색창에 검색어를 입력하면 자동완성 스크롤이 내려오는데, 동영상이 가려지지 않을 만큼의 길이로 제한되어 내려온다.
+검색어 입력시 동영상 감상에 불편을 주지 않는 배려심이 느껴진다.
+
+3. http://littlebigdetails.com/post/17211149368/ipad-keyboard-there-are-phantom-keys-in-the
+아이패드 키보드를 반으로 나눠 사용할때 나눠진 왼쪽 키보드와 오른쪽 키보드 사이의 공간에 숨겨진 버튼이 있다.
+검지손가락으로 누르는 키가 사람마다 다를 수 있다는 점을 고려한 기발한 아이디어라고 생각한다.
+
+4. http://littlebigdetails.com/post/14618399503/etsy-if-you-try-to-send-yourself-a-message-on
+메시지 발신시 받는사람을 자신으로 기입할 경우 경고 메시지를 보여준다.
+친구에게 이메일을 보낼때 받는사람 주소에 내 주소를 넣는 실수를 하여 의도치 않게 '내게쓰기' 기능을 사용했던 경험을 떠올려 보면 유용해 보인다.
+
+5. http://littlebigdetails.com/post/14355561156/mozilla-firefox-in-the-survey-of-test-pilot
+설문조사를 위해 체크박스에 체크할 때, 체크할 수 있는 최대 개수를 달성하면 나머지 체크박스는 비활성화 된다.
+한 포털사이트에서 회원가입 시 설문조사를 위해 체크박스에 체크한 뒤 확인버튼을 눌렀는데 너무 많이 체크했다는 경고메시지가 뜨며 설문조사 페이지가 초기화 되었다. 결국 설문조사를 다시 해야만 하는 수고스러움이 있었다.
+
+6. http://littlebigdetails.com/post/13938282750/batch-when-enabling-the-camera-flash-the-camera
+카메라의 플래시를 on 해놓으면 셔터버튼에 작은 플래시 모양이 생긴다.
+카메라를 사용할 때, 우리는 보통 피사체나 촬영버튼에 집중하기 때문에 플래시 on/off 표시에는 신경 쓸 겨를이 없다. 그렇기 때문에 원치 않게 플래시를 터트리는 경우가 있는데 이 아이디어는 그러한 실수를 줄여줄 수 있을 것이다.
+
+7. http://littlebigdetails.com/post/12717374152/newsstand-the-cover-of-each-publication-updates
+새로운 간행물이 나오면 아이콘과 팝업창에 자동으로 업데이트 되어 보여진다.
+마치 현실세계를 그대로 갖다놓은 듯 한 GUI라서 해당 앱에 더욱 더 정감이 느껴질 것이다.
+
+8. http://littlebigdetails.com/post/12293879966/flickr-when-uploading-files-it-shows-percentage
+파일 업로드시 탭에 업로드 퍼센테이지를 보여준다.
+파일을 업로드하면서 다른 웹 사이트를 이용하는데에 유용해 보인다.
+
+9. http://littlebigdetails.com/post/12161973937/google-chrome-beta-channel-shows-the-icons-of
+인터넷 비 연결시, 인터넷을 요구하는 앱의 아이콘이 흑백으로 표시된다.
+오프라인으로 이용할 수 있는 앱을 쉽게 구분할 수 있다.
+
+10. http://littlebigdetails.com/post/7765654241/microsoft-office-when-editing-rotated-text
+문서작업시 텍스트를 회전시켰을 경우 그에 관련된 편집 기능 버튼들만 회전되어 보여진다.
+고개를 옆으로 돌려가며 편집할 필요가 없다.
