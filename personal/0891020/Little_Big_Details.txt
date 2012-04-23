@@ -1,0 +1,29 @@
+1.크롬/ 업데이트 안내/ 업테이트를 위해 따로 파일을 받지않고 크롬 자체에서 업데이트를 하기 때문에 편리함
+http://littlebigdetails.com/post/9706030906/chrome-update-indicator-turns-brownish-color
+
+2. 야후/ 가입할때 생년월일을 미래의 날짜를 입력하면 가입되지 않음/ 당연한 이야기 인데, 생각치 못한 내용이다.
+http://littlebigdetails.com/post/8047040721/yahoo-trying-to-sign-up-using-a-future-date
+
+3. 아이폰 사파리/ 주소표시줄에 . 다음에 입력하면 .com뿐만아니라 .net, .edu 등의 다른 도메인옵션을 보여준다./ 안드로이드는 .com만 지원하기때문에 다른 도메인 옵션도 제공하면 편리할것같다.
+http://littlebigdetails.com/post/7974713512/ios-safari-when-youre-typing-something-followed
+
+4. instapaper - 모바일을 세로/가로로 회전했을때 회전 잠금 컨트롤이 나와서 따로 설정을 하지않아도 가로/세로모드 중 하나에 고정시킬수 있어서 편함
+http://littlebigdetails.com/post/7618038486/instapaper-if-you-accidentally-rotate-your
+
+5.reeder/ 읽지 않은 뉴스 항목이 있을땐, 아이콘에 종이로 채워져있고, 읽었을때는 아이콘이 비워져 있기때문에 읽지 않은 항목이 있는지 확인하기가 편하다
+http://littlebigdetails.com/post/7306771754/reeder-for-mac-if-you-have-unread-news-items
+
+6. burton/ 검색창옆에 눈의 눈동자가 마우스의 움직임에 따라 움직이는것이 인상적
+http://littlebigdetails.com/post/7085818638/burton-the-eyes-beside-the-search-box-follow
+
+7.IOS 폴더/ 폴더 안에 여러 어플리케이션을 모아둘수 있다. 어플리케이션 정리에 유용하다
+http://littlebigdetails.com/post/14511569223/ios-when-merging-icons-the-drawer-created-gets
+
+8.Feather iOS App / 트위터 글을 남길때, 글자 제한에 다가가면 새의 깃털이 빨간색으로 변하는데 UI측면에서 좋은것같다.
+http://littlebigdetails.com/post/5636895870/feather-ios-app-the-twitter-bird-turns-slowly
+
+9.크롬/ copy한 단어를 붙여넣기할때 paste and go 하면 붙여넣기와 동시에 검색을 한다. 보통 단축기로 붙여넣기를 많이 사용하지만, 마우스 클릭만 함으로써 붙여넣기와 검색을 동시해 할수 있어 편리할것 같다.
+http://littlebigdetails.com/post/3638356716/google-chrome-paste-and-go-in-one-click-via
+
+10 Zappos / 500서버 오류가 발생하면 강아지 캐릭터가 어떻게 해야하는지 3가지 옵션을 가리킨다. 오류가 나면 기분 상할법 한데 귀여움이 느껴질것같다.
+http://littlebigdetails.com/post/5606020186/zappos-after-getting-a-500-server-error
