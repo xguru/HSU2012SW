@@ -1,0 +1,69 @@
+1.아이폰 충전진동
+URL: http://littlebigdetails.com/post/20408492988/iphone-when-you-plug-your-iphone-it-vibrates-to
+설명: 아이폰에 플러그를 끼면 진동이 울리면서 충전중임을 알린다
+선정이유: 마치 에너지가 없는 아이폰이 충전을 시작하면서 아이폰이 기운을 내는 것 처럼
+느껴지고 제대로 플러그가 꽂힌것을 신호로 주어서 좋다
+
+
+2.osx 자동 기억 볼륨
+URL: http://littlebigdetails.com/post/20349251942/osx-when-unplugging-your-headphones-from-a-mac
+설명: 맥에서 헤드폰을 분리하면 자동으로 출력 장치의 가장 최근 볼륨으로 설정해 준다
+선정이유: 이 기능은 아이팟을 사용하면서 편하다고 느낀 기능이다. 이어폰 안끼고 듣는
+소리 볼륨과 이어폰 끼고 듣는 볼륨이 다르기 때문에 이 기능이 없었으면
+매번 소리 크기를 맞추고 이어폰을 귀에 끼지 않으면 갑자기 큰 소리에 놀랄수 있다.
+
+
+3.osx 지도 자동 계절 디스플레이 기능
+URL: http://littlebigdetails.com/post/20286226116/mac-osx-the-world-map-displayed-within-the-data
+설명: 세계지도를 계절에 따라 알맞는 디스플레이 상태를 보여준다
+선정이유: 겨울이면 직관적으로 하얀색의 이미지를 맵에 보여주면서 겨울 상태를 보여줘서 신기하고
+세계 여행을 많이 하는 사람이면 옷을 어떻게 입어야 할지 바로 알수 있어 편할 것 같다.
+
+
+4.메모장 삭제 애니메이션
+URL: http://littlebigdetails.com/post/19953541857/notes-trash-can-jumps-up-and-receives-deleted
+설명: 쓰레기 메모를 쓰레기통에 들어가는 모습을 보여주며 삭제한다
+선정이유: 이 기능은 삭제할 내용이 쓰레기통에 들어가는 모습을 보여주면서 제대로
+삭제를 했다는 느낌을 준다.
+
+
+5.페이스북 아는사람표시
+URL: http://littlebigdetails.com/post/18552500242/facebook-in-the-people-list-of-an-event-people
+설명: 아는 사람의 경우 큰 사진으로 나오고 알수 있는 사람인 경우 작게 표시된다.
+선정이유: 페이스북에서 이러한 기능 때문에 내가 아는 친구는 큰 사진으로 봐서 쉽게 친구들을 찾을 수 있고 
+알수도 있는 사람도 친구의 친구의 관계라서 친구 사귀기 좋다.
+
+
+6.구글검색이미지뷰어
+URL: http://littlebigdetails.com/post/18902598391/google-search-when-hovering-over-a-suggestion
+설명: 검색 결과를 미리보여주어 참고할수 있게 한다
+선정이유: 구글링이 검색에 큰 역할을 하면서 이미지 또한 찾는데 큰 기능을 한다
+또한 이미지를 한페이지 안에서 많은 정보를 확인 할수 있고 어느정도 확인 또한 가능해서 편하다.
+
+
+7.자동완성입력드롭크기제한
+URL: http://littlebigdetails.com/post/17373200275/youtube-when-typing-in-the-search-box-the
+설명: 타이핑 검색중 자동완성드롭창이 크기를 제한을 해서 동영상을 가리지 않는다
+선정이유: 원치않게 타이핑중 자동으로 드롭창이 내려와서 비디오를 가리지 않아 검색중에도 비디오 감상하는데 방해를 받지 않아서
+좋다. 은근히 시아를 방해하면 불편함이 큰데 이렇게 신경써서 만들어서 참 디테일하다.
+
+
+8.아이패드 키자판
+URL: http://littlebigdetails.com/post/17211149368/ipad-keyboard-there-are-phantom-keys-in-the
+설명: 아이패드에 반으로 잘린 키자판 가운데에는 숨겨진 키 자리가 공간을 차지한다
+선정이유: 왼손 오른손 각각 알맞은 손가락으로 칠 수 있는 자판이 있는데 키보드가 반으로 잘려도
+알맞은 위치에 키가 배열 될수 있도록 키공간을 배치해서 불편하지 않게 타자를 칠 수 있도록 배려해 주어서 좋다.
+
+
+9.스포이드 도구 색표시
+URL: http://littlebigdetails.com/post/16697746214/pixelmator-the-eyedropper-tool-shows-you-what
+설명: 스포이드 도구를 사용하면 피펫 내부에 색깔을 보여준다
+선정이유: 스포이드 도구를 알맞게 사용해서 색을 선택했는지 바로 알 수 있어서 편리하게 색을 선택할 수 있을 거 같다.
+
+
+10.ios5 앱 알림
+URL: http://littlebigdetails.com/post/15948026776/ios-5-when-the-phone-is-locked-you-can-slide
+설명: 앱 알림이 있으면 스스로 슬라이드 밀기 창이 떠서 바로 앱을 실행 할수 있다
+선정이유: 앱을 많이 설치하면 밀어서 잠금해제 하고 앱을 찾아 실행 시키기 번거로운데 앱 스스로 밀기창을 띄어서
+바로 앱을 실행 시킬수 있어서 참 편하다. 단순하지만 귀찮을 수 있는 일은 해소해준 기능이다.
+ 
