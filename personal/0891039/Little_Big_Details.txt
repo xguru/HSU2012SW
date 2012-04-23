@@ -1,0 +1,62 @@
+1 아이패드의 유령 버튼
+http://ios.finerthingsin.com/post/16982049392/ipad-keyboard-phantom-buttons
+ 
+- 아이패드의 자판을 반으로 갈랐을 때 T버튼 옆에 Y버튼은 안보이지만 실제로는 있다. H, B, T, G, V도 마찬가지
+= 자판을 누르다보면 우리는 눈보다는 본능적으로 누를때가 많은데 그런 소소한 배려가 꽤나 인상 깊었다.
+
+2 페이스북의 번역
+http://littlebigdetails.com/post/16117036663/facebook-when-a-comment-is-not-in-your-set
+
+- 댓글이 자신의 언어가 아닌걸로 달렸을 때 이를 번역할 수 있는 옵션이 있다.
+= 페이스북을 같은 한국인이랑 해서 전혀 몰랐었는데, 역시 세계의 SNS라는 생각을 하게 됬다.
+
+3 Gmail의 비밀번호 변경 알림
+http://littlebigdetails.com/post/14564768064/gmail-when-attempting-to-sign-in-with-an
+
+- 비밀번호를 바꾸고 로그인을 했는데, 입력한 비밀번호가 잘못되었을 때 얼마전에 비밀번호를 바꿨다고 상기 시켜준다.
+= 비밀번호를 자주 바꾸는 본인으로서 바꾼지 까먹고 그냥 로그인 할 때 많은데 이런 Gmail에는 이런 배려가 있다는게 대단하다고 느꼈다.
+
+4 Google+의 유투브 주소 판독
+http://littlebigdetails.com/post/14310364523/google-when-inserting-a-url-from-youtube-into-a
+
+- 댓글에 유투브의 URL을 입력하면 자동으로 그 유투브의 주소가 아닌 글의 제목으로 바꿔준다.
+= 보통은 URL을 보기 때문에 보기도 안좋은데, 아무것도 아닌 설정이 꽤나 인상 깊었다.
+
+5 인터넷이 연결 안되있을때의 크롬
+http://littlebigdetails.com/post/12161973937/google-chrome-beta-channel-shows-the-icons-of
+
+- 인터넷이 연결 안된 pc에서 크롬을 들어가면 창을 모두 회색으로 표시해준다.
+= 인터넷이 안될 때 안해봐서 본 적 없었지만, 이런 경우의 수까지 생각한다는게 대단하다고 느꼈다. 역시 google.
+
+6 Google Docs의 창늘림
+http://littlebigdetails.com/post/12115472219/google-docs-increasing-the-height-of-your-window
+
+- 창의 높이를 늘리면 글들의 줄 간격도 같이 늘어난다.
+= 이런 쉽지 않은 발견을 통해 구글의 위대함을 느낄 수 있었다.
+
+7 Google의 Ascii 검색
+http://littlebigdetails.com/post/10890336187/google-when-searching-for-ascii-the-logo
+
+- 구글에서 ascii를 검색하면 로고가 분위기에 맞게 바뀐다.
+= seceret 단어를 통한 재미를 제공한다는게 놀라울뿐인다.
+
+8 Google Mail의 Reader 추천 
+http://littlebigdetails.com/post/9994978179/gmail-when-you-reach-inbox-zero-gmail-prompts
+
+- 구글 메일에서 받은 메일이 없으면 Readers를 읽는 것을 추천한다.
+= 안그래도 부족한 지식 더 채우라고 광고를 하다니...지식의 압박이 느껴진다.
+
+9 Google's beatbox
+http://littlebigdetails.com/post/9746513433/google-translate-when-translating-a-beatbox
+
+- 비트박스 소리를 독일어로 번역을 하려 하면, Listen 버튼이 Beatbox!로 바뀐다.
+= 구글은 정말 숨겨진 기능이 너무 많다. 이런 센스까지 발휘 할 수 있다는게 놀라울 뿐이다.
+
+10 Google Calendar
+http://littlebigdetails.com/post/8784841947/google-calendar-favicon-displays-the-day-of-the
+
+- 구글캘린더를 사용중일때는 크롬 탭 옆에 day가 표시된다.
+= 캘린더를 사용하지만 이런 기능이 있는줄 전혀 몰랐다. 사용자마저 발견하기 힘든 곳까지 건드릴 수 있다는 세세함이 나를 매료 시켰다.
+
+
+
