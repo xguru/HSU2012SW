@@ -1,0 +1,48 @@
+little big detail
+
+1) http://littlebigdetails.com/post/7974713512/ios-safari-when-youre-typing-something-followed
+IOS Safari-사용자가 URL을 입력 할 때 .com/.org/.edu/.net같이 자주 쓰이는 것들을  키패드에 제공한다.
+선정이유: 아이폰의 작은 키패드는 누르기 불편한점이 있는데 그런 면을 보완하는 좋은 방법인 것 같다.
+
+2) http://littlebigdetails.com/post/19953541857/notes-trash-can-jumps-up-and-receives-deleted
+Notes - 메모장을 삭제 할 때 메모장이 한 장 뜯어져 휴지통으로 들어가는 UI가 나온다.
+선정이유: 유저의 경험에 접근하는 UX디자인으로 누구나 직관적으로 의미를 알 수 있게 해준다.
+	   이로써 보다 쉽게 기능을 사용하고 접근 하게 해줄 수 가 있다.
+
+3) http://littlebigdetails.com/post/2939313344/gmail-favicon-shows-the-number-of-unread
+Gmail - gmail 탭메뉴의 아이콘에서 읽지 않은 메세지의 개수를 표시해준다.
+선정이유: 탭이 뒤 쪽으로 가 있을 경우에도 확인 할 수 있게해준다. 간단하지만 좋은 아이디어 같다.
+
+4) http://littlebigdetails.com/post/7422508515/ios-moving-the-lock-slider-from-left-to-right
+IOS - 잠금화면의 슬라이드를 풀 때 뒤 쪽의 메세지가 사라지게 된다.
+선정이유: 슬라이드가 지나감에 따라 잠금이 해제된다는 것을 글자가 사라지는 효과로 표현해 주었다.
+
+5)http://littlebigdetails.com/post/20467065507/mail-mail-gives-you-the-option-to-display-the
+Mail - 전화 번호와 같은 가독성이 떨어지는 것을 전체화면으로 읽게해준다.
+선정이유: 간단하지만 이와 같은 기능을 필요로하는 사람은 굉장히 많다. 다른 브라우저나 플랫폼등
+	   앞으로는 이런 기능을 모두 제공해야 할 것이다.
+
+6)http://littlebigdetails.com/post/18949480371/youtube-when-watching-a-video-exceeding-one-hour
+Youtube - 유저가 한 시간 이상의 영상을 볼 때 타임라인 안쪽에 다시 작은 타임라인을 표시해준다.
+선정이유: 길이가 긴 영상은 타임라인으로 정확한 지점을 찾기 힘들다. 이런 사소한 점을 놓치지 않고
+	   작은 타임라인으로 구현 해 놓아 선정 했다.
+
+7)http://littlebigdetails.com/post/18848445290/ios-notification-center-when-swiping-on-a
+IOS Notification Center - 어떤 공지가 떳을 때 바로 앱으로 접근 하도록 해준다.
+선정이유: 스마트폰을 사용하는 유저로써 다른 어플에 접근할 때 항상 폰의 잠금을 해제하고 다시 들어가는
+	   번거로움이 있었는데 이 기능 덕분에 한결 편해졌다.
+
+8)http://littlebigdetails.com/post/17373200275/youtube-when-typing-in-the-search-box-the
+YouTube - 검색상자를 이용하여 검색을 할 때 재생중인 영상이 있다면 자동완성 기능 박스가 그 영상을 덮지 않는다.
+선정이유: 유튜브에서 이런 작은 부분 까지 신경쓰고 있다는 것이 놀라웠다. 유저는 검색을 하는 잠깐동안이나마
+	   영상을 더 볼 수 있게 되었다.
+
+9)http://littlebigdetails.com/post/14564768064/gmail-when-attempting-to-sign-in-with-an
+Gmail - 잘못된 비밀번호를 입력하였을 때 비밀번호가 언제 바뀌었었는지 알려준다.
+선정이유: 비밀번호가 바뀐 후 지난시간을 알았을 때 비밀번호가 무엇인지 알 수 있는 좋은 힌트가 된다.
+
+10)http://littlebigdetails.com/post/14181877130/icloud-com-removes-the-spaces-from
+iCloud.com - 이메일 입력란에 공백이 입력될 경우 자동으로 지워준다.
+선정이유: 컴퓨터 상이라면 모르겠지만 모바일 상에서 이메일 주소를 치고 오타가 생길 경우 지우고 
+	   다시 쓰는 일은 정말 번거롭다. 이 기능에선 이메일에 포함 될 수 없는 공백을 자동으로 교정해 줌으로
+	   조금 더 사용자들의 편리성을 돕고있다.
