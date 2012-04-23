@@ -1,0 +1,67 @@
+한성대학교 멀티미디어공학과 0891087 한재영
+http://littlebigdetails.com/ 사이트를 둘러보고 인상적인 것들과 마음에 드는것 10개를 뽑고 이유 명시
+
+http://littlebigdetails.com/post/18949480371/youtube-when-watching-a-video-exceeding-one-hour
+Youtube - When watching a video exceeding one hour, scrolling over the timeline will give you a magnification of the 2 minute timeframe. 
+Youtube - 당신이 한시간정도 비디오를 볼때, 재생표시줄위에서는 2분간격으로 확대한것을 보여준다.
+이 기능을 통해서 사용자가 보고 싶어하는 곳을 정확히 찝어서 볼 수 있기 때문에 보고싶은 영상 부분을 찾는 시간을 단축 시킬수 있다는 점이 마음에 든다.
+보통 처음부터 동영상이 플레이 되지 않고 중간으로 바로 넘어가면 영상을 보기 위해 버퍼링이 걸릴 수 있게된다. 현대 사람들은 잠시나마 기다리는것도 지루하게 느낄 수 있는 시대기 때문에 이런 기능은 기다리는 지루함을 덜 수 있는 점이 정말 훌륭하다.
+
+http://littlebigdetails.com/post/18495659529/ios-lower-corner-radius-changes-when-keyboard
+IOS - Lower corner radius changes when keyboard pops up.
+IOS - 키패드를 열때 하단 모퉁에를 굴곡있게 한다.
+IOS를 접할 경우가 없었고 보통 지인들이 소유하고 있는 IOS를 통해서 다시보게 되었다. 그리고 또한 안드로이드 폰을 확인해 봤는데 정말 이런 기능이 없었다는 것을 보고 깜짝 놀랐다,
+이런 기능을 통해 아이폰 같은 경우 화면이 딱딱한 느낌을 덜어내고 화면이 다른 안드로이드 폰보다 작아도 질리지 않다는 느낌을 받게 되었다. 
+이런 섬세한 디자인을 통해 사용자로 하여금 딱딱한 이미지를 덜어낸다는 점이 마음에 들었다.
+
+http://littlebigdetails.com/post/13455255895/facebook-when-entering-an-old-password-it-tells
+Facebook - When entering an old password, it tells you when/where you changed it, and offers you to request a new one, or try again.
+Facebook - 오래된 비밀번호로 들어올때, Facebook은 당신에게 언제/어디서 바뀌었는지 그리고 세로운 것을 요청하는것을 제공하거나 다시 시도하게 한다.
+Facebook을 할때 만약 ID의 철자가 한군데 혹은 두군데 정도 틀릴때 Facebook은 다른 ID를 제시함으로써(물론 접속하려 했던 ID와 비슷한 아이디로 제시) 사용자로 하여금 좀더 쉽게 접속 할 수 있게끔 한다.
+Password도 잊을때가 많지만 이런 ID도 간혹가다 잊을때가 종종 있는데, Facebook은 유연하게 '혹시 이사람이 당신 아님니까?'를 제시함에 따라 바로 생각날 수 있게 도와준다. 
+타 포털 싸이트는 ID를 모를때 ID검색을 통하여 검색한 뒤 다시 접속을 해야 하지만, 이런 복잡한 절차를 단 한번에 줄여주는점에 있어서 참신하다 생각이 든다.
+
+http://littlebigdetails.com/post/11991805579/chrome-after-clicking-on-an-active-download-the
+Chrome - After clicking on an active download, the status changes to “Opening in [time remaining]”.
+Chrome - Chrome에서 파일 다운로드를 클릭한 후, 파일을 열기위해 없어지지 않고 남아있다.
+IE같은 경우 파일을 받은 후 자동으로 창이 닫히면 PC에 저장된 폴더를 뒤지거나 혹은 저장된 곳을 보를때 검색을 통하여 다운로드한 파일을 봐야하는 번거러움이 있지만, Chrome같은 경우에는 파일을 다운로드하면 없어지지 않고 상태표시줄과 같은 곳에 남아서 사용자가 파일을 볼 때까지 남아있다.
+이를 통해서 파일을 다운로드한 후 잊어버리지 않고 바로 볼 수 있으며, 설사 다운로드를 한 사실을 잊게 되었을 경우에도 IE처럼 일일이 파일을 찾는 번거러움이 없어지고 바로 파일을 볼 수 있게끔 사용자의 편의가 이루어져 있다. 본인도 이런 사용자를 배려한 점 때문에 IE보다는 Chorme을 쓰고 있다.
+
+http://littlebigdetails.com/post/16117036663/facebook-when-a-comment-is-not-in-your-set
+Facebook - When a comment is not in your set language, there is an option to translate it.
+Facebook - 당신이 습득하지 못한 언어로 댓글이 달릴때, Facebook이 번역을 할 수 있도록 해준다.
+이 사이트를 둘러보면서 이런 정보를 얻게 되었는데 정말 그런지 확인해본 결과 실제로 가능하다는걸 보고 깜짝 놀랬다. 정말 세계인들이 모두 사용할 수 있다는 점은 바로 이런것에서 시작 되지 않을까 싶다.
+더이상 외국 사람들과 언어로 인해 서로 장벽이 있게되는 일은 점점 없어질 것 같다.
+
+http://littlebigdetails.com/post/14564768064/gmail-when-attempting-to-sign-in-with-an
+Gmail - When attempting to sign in with an incorrect password, it reminds you how long ago it was changed.
+Gmail - 정확하지 않은 비밀번호로 접속할때, Gmail은 당신이 얼마전에 접속하고 비밀번호 변경여부에 대해 알려준다.
+Gmail에 접속하려 할때 잘못된 비밀번호로 접속하면 접속이 안되면서 얼마 전에 정상 접속이 되었는지를 보여준다.
+비밀번호를 찾는 서비스도 있지만(등록된 다른 메일이나 혹은 다른 방법으로..) 상당히 번거롭다. 이를 통해 자신이 얼마 전에 들어왔는지를 알 수 있고 또 그때 기억으로 어떻게 접속했는지 상기되기 때문에 상당히 유용한 기능인것 같다.
+
+http://littlebigdetails.com/post/12115472219/google-docs-increasing-the-height-of-your-window
+Google Docs - Increasing the height of your window will increase the space between rows.
+Google Docs - 사용자가 웹을 보기 편하도록 줄과 줄 간격을 넓혀준다.
+이런 기능 또한 처음 알았는데, 보통 글이 빼곡히 써있을때 읽기 힘들다. 간혹가다가 읽었던 줄을 또 다시 돌아가 읽는 경우도 많은데, 더군다나 모니터로 보기 때문에 눈의 피로가 더 증가 한다. 
+이런 줄과 줄 간격을 넓히는 기능이라면 읽었던 줄을 다시 돌아가 읽은 경우가 줄어들 것이다. 또한 읽기에도 편하게 되기 때문에 선정했다.
+
+http://littlebigdetails.com/post/11949755858/google-maps-the-map-or-satellite-button
+Google Maps - The “map” or “satellite” button” shows the actual area behind it.
+Google Maps - "map" 또는 "sarellite" 버튼을 누르면 그 버튼 뒤로 실제로 보여진다.
+사실 이 기능은 타 포털에서 먼저 봤다. 본인이 알고 있는 정보에 의하면 다른 포털사이트보다 먼저 이런 기능을 만든 곳은 바로 구글이라고 들었다. 이 기능을 통해 처음 왔던 곳도 쉽게 찾아갈 수 있게 만들었다.
+위성 사진으로 돌리면 내가 위성에서 대한민국을 보고 있다는 생각마저 들 정도로 아주 정교하게 잘 만들어 졌다. 처음 이 기능을 접할때(타 사이트에서 접했지만..) 정말 IT가 어디까지 발전할까? 라는 의구심이 들 정도로 획기적인 기능인것 같아서 선정했다.
+
+http://littlebigdetails.com/post/10442335074/google-images-when-dragging-a-photo-on-the-page
+Google Images - When dragging a photo on the page or into the browser, the search input changes to support drag and drop
+Google Images - 구글 브라우저에서 사진을 드래그 그리고 드랍 하면 그 사진으로도 검색이 가능하게 지원하고 있다.
+이 기능 또한 처음 알게 되었는데, 신기하지 않을 수 없다. 여지껏 검색이란 문자입력을 통해서만 검색이 가능하다고 생각하고 있었는데, 이 기능을 보니 본인의 고정관념을 한번에 박살낸 그런 충격적이면서도 획기적인 기능인 것 같다. 
+이미지로 검색하게 되는 일은 그다지 많지 않겠지만, 이번 기능을 알게되니 혹시라도 나중에 주어진 이미지로 검색을 할때 유용한 기능이 될것 같다.
+
+http://littlebigdetails.com/post/2974115624/chrome-marks-the-position-of-cmd-f-search
+Chrome - Marks the position of cmd-F search matches on the scrollbar.
+Chrome - 크롬에서 어떤 단어따위를 찾을때 해당되는 것을 스크롤바에서 나타내어 찾기 쉽게 해준다.
+크롬을 몰랐을때 어떤 단어의 의미 혹은 그럭것과 같은것을 찾을때 긴 장문의 웹이 나타나면 처음부터 모두 읽어서 해당되는것을 찾는 번거로움이 있었다. 하지만 크롬에서는 스크롤바에 찾고자 하는 것의 해당 위치를 알려줌으로써 사용자로 하여금 더 빠른 시간안에 찾을 수 있게 만들었다.
+이 기능으로 짧은 시간안에 더 많은것을 찾을 수 있다는 점을 미루어 보아 일의 효율성이 더 증대될 수 있다는것을 알 수 있다.
+
+이번 조사를 통해서 많은 기능들을 알게 되었다. 기존의 사용하고 있었지만 대수롭지 않게 생각한것들이 새로 머리속에 들어왔고, 또 접해보지 못한 것들도 신선하게 다가왔다.
+사실 대부분 평소에 사용하는것들에 연관되있는것들만 10가지에 채택했지만, FireFox, Apple, 오페라와 같은것들에 연관되있는 기능들도 많이 있었다. 다음에 다른것들을 접하게 되면, 이번 조사를 통해 알게 되었던 기능들을 한번씩은 써봐야 겠다는 생각이 들었다.
