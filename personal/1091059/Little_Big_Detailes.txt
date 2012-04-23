@@ -1,0 +1,73 @@
+1)When used in direct messages on the site, Soundcloud turns internal URLs into proper links with useful descriptions.
+-단순히 복잡한 링크가 길게 붙여넣기 되는게 아니라 자동적으로 설명이 되니까 따로 URL에 대한 설명을 쓰지 않아도 되고, 보는 사람도 편하다.
+
+2)OS X - The print queue icon matches the actual make and model of the printer/copier you are printing to.
+-개인적으로 이런거 매우 좋아하는게 일단 선정이유 첫번째이다. 집에서나 사무실등에서 쓰는 프린터가 한 대일 경우에는 필요성이 크진 않지만, 
+만약 프린터가 여러대라면 인쇄 할 때 굳이 모델명을 보고 고르지 않고 외관적인 모양으로 골라 원하는 프린터에서 쉽게 프린트를 할 수 있다.
+(맥 os x 가 아이팟 연결이되면 아이콘이 모델과 색상까지도 일치하는 것도 있었으나 비슷한 장르라 제외 했다. 
+둘 중 이 아이를 선택 한 이유는 아이팟 모델보다는 프린터가 훨씬 세세하고 좀 더 필요성이 있을 수 있기 때문이다.)
+
+3)Mac OS X - Allows you to flip through the content of a PDF in its icon thumbnail.
+-아이콘에서 pdf의 한면을 보여준다 하니, 일단 신기하기도 하고, 이것도 필요성이 크진 않지만(보통 제목을 보면 내용을 알 수 있으니까), 
+보통 우리가 쉽게 보게 되는 것은 제목보다는 아이콘이니 아이콘을 보고 좀 더 쉽게 찾고 내용을 파악 할 수 있는 장점이 있다.
+(Gnome이 텍스트 파일을 세줄 먼저 보여주는 것도 있었으나 비슷한 장르라 제외 했다. 
+둘 중 이 아이를 선택한 이유는 Gnome은 텍스트 세줄이고 Mac os X는 PDF 한면이니까, 내용 파악이 좀 더 쉬울 수 있기 때문이다.)
+
+4)Co.Design - Shows the time the post was written in the clock icon next to the entry.
+-사람은 글로 작성된 것 보다 이미지로 작성된 것이 보기 편하고 눈에 쉽게 들어온다. 날짜보다는 달력이 시간보다는 시계가 보기 편하다. 
+이 글이 언제쯤 작성되었는지 좀 더 쉽게 알 수 있다. 
+
+5)OSX Mail - Formatting of date intelligently adjusts to fit the column width.
+-보통 창크기를 바꾸면 화면의 내용은 바뀌지 않아 창을 작게 만들면 화면의 움직임이 많아진다. 
+하지만 자동적으로 조정해 준다면 작은 창에서든 큰 창에서든 매우 편하게 작업 할 수 있다.
+
+6)Youtube - When watching a video exceeding one hour, scrolling over the timeline will give you a magnification of the 2 minute timeframe.
+-만약 이 기능이 없다면, 우린 시간이 긴 동영상에서 원하는 부분으로 가기 위해 마우스에 엄청난 힘 조절이 필요할 것이다. 
+2분 기간의 확대창 정도면 손에 좀 더 힘을 뺄 수 있을 것이다.
+
+7)Zappos - After getting a 500 server error, hovering the three main options will make the dog show you what to do.
+-보통 서버 오류가 나면 몇번 오류라고 알려주고 말거나 진단을 해보라고 하지만, 이렇게 강아지가 해야 할 일을 알려준다면 
+짜증도 덜 나고, 검색할 필요도 없고, 해결도 쉽게 할 수 있고 여러모로 좋을 것이다.
+
+8)MobileMe - When filling out the email form, the text size will decrease to fit inside of it.
+-가끔 긴 이메일을 가지고 있는 사람이라면 이메일을 다 쓰고 오타가 없는 지 확인하려면 마우스로 이동을 한 번 해야한다. 
+하지만 이렇게 자동적으로 줄어든다면 한 눈에 들어와 오타가 있는지 보기 쉬워지고 마우스의 움직임도 필요 없게 된다.
+
+9)Lego - The lego character covers his eyes when a user types in their password.
+-레고라는 큰 장난감 회사 답게 이렇게 소소한 부분에서 사용자에게 웃음이나 재미를 유발할 수 있다면, 
+자신들의 회사 목적에도 맞고 사용자도 회사에 호감을 가지게 될 것 이다.
+
+10)Windows 7 - Hover colors of dock buttons change according to colors of app icons.
+-집에서 Windows7을 쓰고 있는데 처음 알았기 때문에 신기함이 두배가 되었다. 
+비슷한 경우로 Chrome에서 favicon의 주변색으로 탭의 색깔이 변한는 것도 있다. 
+하지만 Chrome보다 Win7을 쓴 기간이 훨씬 오래되어서 약간의 충격 때문에 Window7을 선정했다.
+
+//처음에 인상적인 것 고르라고 했을 때 60개 이상 나와서, 그 중 순서를 매겨 10개를 골랐습니다.
+그런데 10개 이상 써도 된다고 하여서 나머지는 목록 별로 정리해 봤습니다.
+
++CNN - Globe perspective rotates depending on the content of the section and appears randomly on the homepage.
+iOS - When you enable airplane mode on iPhone, a little airplane icon flies from the edge of the screen
+Apple - Shows black and white buttons appropriately to help you select the color for your iPad 2.
+Burton - The eyes beside the search box follow your mouse around the page.
+Threadless - The shopping cart face turns from sad to happy when you fill it with items
+Google street view - The icon changes to a skier when viewing a piste
+Lion Safari - The scrollbar changes the color depending of the background of the current website
+Zootool - The more you pay for a yearly subscription, the more grass the Rhino has to eat
+Batch - When enabling the camera flash, the camera icon on the shutter button gets a little white flash
+->세세하고 귀여운 부분
+(Google - When searching for ascii, the logo changes to actual ascii art
+->이 것은 안되길래, 일단 목록에서 제외했다.)
+
++Chrome - In the Chrome Developer Tools CSS panel, clicking on a colour will cycle through a range of different formats including hex, rgb and hsl
+Tumblr - When the number of tags exceeds the width of the post in the dashboard, a horizontal move cursor appears and the list can be dragged to reveal the rest of the tags
+Facebook - When a comment is not in your set language, there is an option to translate it
+Gmail - While in the inbox, the Compose button is red.
+->사용자편의
+
++Rdio - When you mouse over the forward/back buttons on the Rdio player, it tells you what track is coming up next in the playlist/album
+Reddit - Login form shows orange frame around password recovery link after wrong password
+Reeder for Mac - If you have unread news items, the dock icon looks like box filled with papers
+Feather iOS App - The Twitter bird turns slowly green as you type and goes red when you get to the 140 character limit.
+Svvply - Hovering a shop item shows information intuitively
+Orchestra To-do - When you've misspelled your email address during sign-up, it suggests your correct email address.
+->정보제공
