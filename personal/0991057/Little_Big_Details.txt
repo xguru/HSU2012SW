@@ -1,0 +1,92 @@
+
+1.URL
+-http://littlebigdetails.com/post/20526837044/android-ics-the-screen-skews-when-you-try-to
+디테일 
+-화면을 기울이면 기울인 정도에 따라 화면에서 기울인정도를 보여준다
+선정이유 
+-사용자로 하여금 사소한 재미를 느끼게 해주기 때문에
+ 자신이 느낀점
+ -없어도 불편함을 느끼는 기능은 아니지만, 사용자로 하여금 재미와 몰입감을 주는 기능인 것 같습니다.
+
+ 2.URL
+ -http://littlebigdetails.com/post/20224937627/google-analytics-to-select-a-period-of-time-you
+ 디테일 
+ -월 , 일 특정기간을 선택해서 표시할 수 있다.
+ 선정이유 
+ -이번 저희 조 프로젝트에 유용하게 쓰일 만한 내용이기 때문에 선정했다
+  자신이 느낀점
+  -디테일이 좋은 것 같다.
+
+  3.URL
+  -http://littlebigdetails.com/post/20008696002/ios-if-you-tap-the-camera-icon-in-the-lock
+  디테일 
+  -당신 IOS 5.1 잠금 화면에서 카메라 아이콘을 누르면, 화면이 올라가면서 카메라를 화면이 뜬다.
+  선정이유 
+  -기존에 아이폰과 갤럭시에서 슬라이드를 밀고 카메라버튼을 찾고나서야 카메라를 찍을 수 있는데 비해서 이 기능은 간편한 것 같다.
+   자신이 느낀점
+   -사용자의 불편함을 빨리 알아내야 될 것 같다.
+
+   4.URL
+   -http://littlebigdetails.com/post/18848445290/ios-notification-center-when-swiping-on-a
+   디테일 
+   -카메라에 알람이 뜨면 후 슬라이드를 밀면 그 응용 프로그램으로 실행된다.
+   선정이유 
+   -어떠한 메시지나 카카오톡이 왔을 때 사용자가 원하는 곳으로 가서 실행을 시켜주는게 좋다.
+   자신이 느낀점
+   -사용자로 하여금 최대한 프로그램을 실행시키는 과정을 최소화 시키는 방법을 생각해내야 될 것 같습니다.
+
+
+   5URL
+   -http://littlebigdetails.com/post/18495659529/ios-lower-corner-radius-changes-when-keyboard
+   디테일 
+   -키보드 팝업시 아래 부분이 조금 동그랗게 변한다.
+   선정이유 
+   -사소하지만 사용자가 봤을 때 눈이 덜 피로한 것을 찾은 것 같다.
+   자신이 느낀점
+   -사소한 디테일도 사용자가 조금 더 편하게 느낄 수 있도록 수정하고 보완해야 된다는 점.
+
+   6.URL
+   -http://littlebigdetails.com/post/18396452619/google-maps-when-zooming-in-to-the-maximum-the
+   디테일 
+   -확대하는 버튼이 최대의 범위가 됬을 때 위에 버튼과 합쳐진다..
+   선정이유 
+   -디자인이 깔끔해져서 보인다..
+   자신이 느낀점
+   -디자인의 깔끔함을 추구해야 될 것 같다.
+
+   7.URL
+   -http://littlebigdetails.com/post/16409100626/facebook-ipad-app-when-tapping-a-tab-that-is
+   디테일 
+   -사이드바 있을 때 다른 부분을 클릭했을 때 사이드바가 사라진다.
+   선정이유 
+   -사이드바가 안사라지면 화면의 효율성이 떨어질 것 같다.
+   자신이 느낀점
+   -최대한 편리함을 추구하는 방법을 알아내야 될 것 같다.
+
+   8.URL
+   -http://littlebigdetails.com/post/14671757055/path-when-signing-up-as-a-new-member-the-iphone
+   디테일 
+   -새로 회원가입 할 때 기존의 이메일주소를 불러올 수 있다.
+   선정이유 
+   -이메일 입력하는데 시간이 걸리는데 기존의 주소를 불러와서 시간이 단축된다..
+   자신이 느낀점
+   -입력을 반복해야 되는 점을 줄이는데 신경써야 되는 것 같다.
+   .
+   9.URL
+   -http://littlebigdetails.com/post/14511569223/ios-when-merging-icons-the-drawer-created-gets
+   디테일 
+   -두개의 어플을 병합할 때 
+   선정이유 
+   -이메일 입력하는데 시간이 걸리는데 기존의 주소를 불러와서 시간이 단축된다..
+   자신이 느낀점
+   -입력을 반복해야 되는 점을 줄이는데 신경 써야 되는 것 같다.
+
+   10.URL
+   -http://littlebigdetails.com/post/13938282750/batch-when-enabling-the-camera-flash-the-camera
+   디테일
+   -카메라의 플래쉬를 사용하면 카메라 아이콘 상단에 아주 작게 흰색표시가 생긴다.
+   선정이유
+   -어두울 때에는 상관없지만 밝을 때는 플래쉬가 켜져 있는지 아닌지 햇갈리기 때문에 이기능을 통해서 알 수 있다.
+   자신이 느낀점
+   -사용자가 지금 환경에 대해 정확하게 파악하도록 해야된다.
+
