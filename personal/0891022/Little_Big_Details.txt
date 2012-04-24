@@ -1,0 +1,52 @@
+1. Youtube  - iOS Safari - When you’re typing something followed by a dot in address bar, pressing the .com key, will result in a perfect one-dot 
+              spelling anyway. Then when you press it longer it shows you other domain options.
+   URL      - http://littlebigdetails.com/post/7974713512/ios-safari-when-youre-typing-something-followed
+   선정이유 - 일반적인 자판에서는 .com 밖에 지원하지 않지만 이 ios사파리에서는 .com을 오래누르고 있으면 .net 이나 .edu같은 다른 도메인 옵션을 
+              보여줍니다. .com을 제외한 다른 도메인을 치려면 귀찮은데 이런 기능을 제공하는 것이 상당히 편리하게 느껴집니다.
+
+2. Path     - When signing up as a new member, the iPhone app pulls your contact information from the address book.
+   URL      - http://littlebigdetails.com/post/14671757055/path-when-signing-up-as-a-new-member-the-iphone
+   선정이유 - 신교 회원으로 가입하면, 아이폰 애플리케이션이 주소록에서 연락처 정보를 가져올수 있습니다. 따로 정보를 입력하지 않아도 클릭한번에
+              정보를 가져올수 있어 상당히 편리합니다.
+
+3. Mac OS X - Understands your photo album titles and places and assigns appropriate icons to it.
+   URL      - http://littlebigdetails.com/post/10125771569/mac-os-x-lion-understands-your-photo-album
+   선정이유 - 이 맥 OS X 라이온에서는 사진 앨범 제목과 장소를 이해해 적절한 아이콘을 할당합니다. 따로 아이콘을 할당하지 않아도 그것에 적절한 
+              아이콘을 부여한다는 것이 재밌게 느껴졌습니다.
+
+4. Adium    - The eyes of the bird icon open while using Adium and close when you close the app.
+   URL      - http://littlebigdetails.com/post/5799859896/adium-the-eyes-of-the-bird-icon-open-while-using
+   선정이유 - 새의 눈 아이콘이 Adium을 사용하는 동안에는 켜지고 끄고있는 동안에는 닫혀 있습니다. 스마트폰을 사용할때 앱을 끄지않아 폰이 조금씩
+              느려지는 때가 있는데 이런 기능이 있으면 앱을 확실히 껐는지 알수있어 신선합니다.
+
+5. Youtube  - Allows user to play snake with keyboard arrows while waiting for video to load or when it’s paused.
+   URL      - http://littlebigdetails.com/post/5420352205/youtube-allows-user-to-play-snake-with-keyboard
+   선정이유 - 유투브에서 동영상을 기다리는 동안 사용자는 정지화면에서 키보드로 뱀게임을 할수있습니다. 특별한 기능은 아니지만 이런 사소한 것들이
+              기다리는 지루함을 조금이나마 덜어주는 것 같습니다.
+
+6. Chrome   - When closing tabs in chrome, the position of the close button remains the same on both sides.
+   URL      - http://littlebigdetails.com/post/2925192794/chrome-when-closing-tabs-in-chrome-the-position
+   선정이유 - 크롬에서 탭을 닫아도 close 버튼이 계속 그 자리에 있어 탭을 연속적으로 닫을 수 있습니다. 교수님이 강의시간에 알려주신 내용인데 
+              확실히 다른 브라우져들과 비교했을때 더 정감을 갖게하는 기능인것 같습니다. 사용자에게 배려를 하고 있다는 느낌을 주면 사용자는 
+              다음에도 그 브라우져를 더 자주 찾을 것 같습니다.
+
+7. Chrome   - After you copy a URL from the navigation bar, it automatically adds http:// in front of it when you paste it somewhere else. 
+   URL      - http://littlebigdetails.com/post/3065797761/chrome-after-you-copy-a-url-from-the-navigation
+   선정이유 - 당신이 탐색 표시줄에서 URL을 복사 후에 다른 곳에서 그것을 붙여넣으면 자동으로 앞에 http://를 추가합니다. url을 복사할 때 
+              실수로 htp://를 넣지 않을 때를 대비해서 자동으로 추가해주는 것이 정말 편리하게 느껴집니다.
+
+8. Gmail    - Shows some good advice next to the phone option on fathers day.
+   URL      - http://littlebigdetails.com/post/6688967128/gmail-shows-some-good-advice-next-to-the-phone
+   선정이유 - 어버이의 날에 전화 옵션 옆에 좋은 기능들을 보여줍니다. 사용자에게 부모님에게 전화를 한번 해보라는 어떻게 보면 쓸데없이 참견하는
+              것 같이 보일수도 있지만 그래도 이 각박한 사회에 가족을 다시 생각하게 해주는 좋은 기능으로 느껴집니다.
+
+9. Google Calendar - When an event is continuing to the next week, they give you a little arrow.
+   URL      - http://littlebigdetails.com/post/18791807078/google-calendar-when-an-event-is-continuing-to
+   선정이유 - 이벤트가 다음주에 있으면 당신에게 약간의 화살표를 제공해 이벤트를 부각시켜줍니다. 사용자는 이것으로 이 일을 잊지않고 준비할 수 
+              있어 편리할 것 같습니다.
+
+10.GitHub   - When you click a support link, GitHub remembers the last repository you were looking at and suggests contacting 
+              the author of that repo for help specific to it.
+   URL      - http://littlebigdetails.com/post/9080142110/github-when-you-click-a-support-link-github
+   선정이유 - GitHub에서는 지원 링크를 클릭하면 당신이보고 있던 마지막 저장소를 기억해 해당 repo의 작성자에게 문의 제안하는 점이 
+              굉장히 편리한 것 같습니다.
