@@ -1,0 +1,59 @@
+1.
+- http://littlebigdetails.com/post/3638356716/google-chrome-paste-and-go-in-one-click-via
+- 링크를 복사한 상태에서 붙여넣기와 이동을 바로 할수 있다.
+- 대부분 붙여넣기를 하고 엔터를 치는데 그걸 한번에 처리할수 있게 만들었다. / 웹서핑을 하다보면 대부분 마우스를 쓰게 되는데 사용자를 배려한게 느껴졌다.
+
+2.
+- http://littlebigdetails.com/post/5217646051/youtube-advanced-menu-options-when
+- 유투브 동영상 화면에서 우클릭을 하게되면 동영상 정보나 링크 복사등 여러가지 메뉴가 나온다.
+- 소스나 링크를 따로 제공하는 기능은 많으나 클릭 한번으로 소스코드를 복사할수 있게 만든게 참 편리했다. / 유투브 동영상은 퍼가는 경우가 굉장히 많은데 클릭 한번으로 링크나 소스코드를 복사할수 있어서 매우 편한거 같다.
+
+3.
+- http://littlebigdetails.com/post/5420352205/youtube-allows-user-to-play-snake-with-keyboard
+- 유투브 동영상을 불러오고 있을때 좌우 방향키를 누르면 꼬리잡기 게임을 할수 있다.
+- 동영상을 기다리면서 심심하지 않게 해주는게 참신했다. / 동영상 기다리면서 하는 간단하고 별거아닌 게임인데 동영상이 빨리 로드 안됬으면 할정도로 은근히 중독성이 있다.
+
+4.
+- http://littlebigdetails.com/post/6759519976/google-translate-hovering-over-the-translation
+- 구글번역에서 단어를 클릭하면 비슷한 의미의 단어의 목록이 나온다.
+- 번역의 특성상 문맥과는 맞지 않는 단어가 번역이 될수 있는데 그걸 감안해서 이런 기능을 만든것 같다. / 영어실력이 딸려서 구글번역을 많이 사용하는데 유용하게 사용했던 기억이 있다.
+
+5.
+- http://littlebigdetails.com/post/7974713512/ios-safari-when-youre-typing-something-followed
+- iOS 사파리에서 주소를 입력하고 뒤에 .com이나 .net같은 도메인을 바로 쓸 수 있게 제공한다.
+- 아이폰은 화면이 큰편이 아니기때문에 오타가 잘 나는데 .com이라도 바로 입력할수 있게 해줘서 속도도 빨라지고 오타율도 줄어들것 같다. / 한국은 .co.kr같은게 많은데 사용자가 저기에 들어갈 도메인도 지정이 가능하면 더 좋을거 같다.
+
+6.
+- http://littlebigdetails.com/post/11612553366/google-maps-the-iphone-icon-represents-the
+- 아이폰의 기본탑재 지도 앱의 아이콘은 애플의 본사 위치를 나타낸다.
+- 애플의 자신감(?)이 돋보이고 나름 참신하다고 생각된다. / 아이폰 뒷면에 사과모양 말고는 애플이라고 써있지도 않은 제품에 저런식으로 조금씩 애플을 나타내는게 참 대단하다.
+
+7.
+- http://littlebigdetails.com/post/11991805579/chrome-after-clicking-on-an-active-download-the
+- 크롬에서 파일을 다운로드 할때 브라우저 하단에 표시되는데 그림으로 얼마나 진행되는지 표시가 되고 다운로드 속도와 남은시간 그리고 다운로드 완료시 실행옵션을 해놓으면 얼마나 있으면 파일이 열리는지도 표시된다.
+- 우리가 주로 사용하는 IE의 경우에는 따로 창이 하나 더 뜨는데 크롬은 간결하게 처리했다. / 다운로드 항목 옆에 화살표 모양을 클릭하면 여러가지 메뉴가 더 있어서 사용하는데 아주 편리했다.
+
+8
+- http://littlebigdetails.com/post/12791899056/weather-app-swiping-down-in-ios-5s-weather-app
+- 아이폰 알림센터에도 있고 기본으로 되어있는 날씨 앱에서 요일에서 스크롤을 하면 시간대별 날씨를 알려준다.
+- 날씨라는게 정확한것은 아니지만 그래도 시간별로 날씨 정보를 제공해줘서 원하는 정보를 더 잘 알수 있다. / 아이폰을 쓰고 있지만 이번에 보고 스크롤를 해봐서 저런게 있는걸 알았다. 숨겨진 기능은 아닐텐데..
+
+9
+- http://littlebigdetails.com/post/16117036663/facebook-when-a-comment-is-not-in-your-set
+- 페이스북에서 내가 사용하는 언어가 아닌 다른 언어의 내용이 있으면 번역기능을 제공한다.
+- 번역의 특성상 정확한 번역은 아니지만 그래도 주요 내용은 파악할수 있어서 편리하다. / 사실 다른언어로 댓글을 달아줄 친구가 없어서 잘 모르고 있던 기능이다...
+
+10
+- http://littlebigdetails.com/post/19953541857/notes-trash-can-jumps-up-and-receives-deleted
+- 아이폰 메모 앱에서 휴지통 모양을 삭제를 누르면 그곳으로 빨려들어간다.
+- 휴지통의 위치를 기가 막히게 배치한거 같고 뚜껑이 열리는것도 아주 세심하다. / 지우고 싶은 메모가 있으면 시원한 기분이 들고 확실하게 지워진다는 느낌을 받는다.
+
+11
+- http://littlebigdetails.com/post/18848445290/ios-notification-center-when-swiping-on-a
+- 알림이 오면 밑에는 잠금해제, 위에는 해당 앱으로 바로 이동하거나 앱의 속성에 맞는 메시지가 나온다.
+- 밀어서 잠금해제만 있는게 아니었다. / 그냥 슥 밀어버리고 마는데 천천히 미니까 뒤에 글이 숨어있었다.
+
+12
+- http://littlebigdetails.com/post/20408492988/iphone-when-you-plug-your-iphone-it-vibrates-to
+- 아이폰이 컴퓨터나 충전기에 연결이 되면 진동으로 알려준다.
+- 화면이 바뀌긴 하지만 관심없이 꼿아놓고 툭 던지는 경우도 있는데 그래도 충전이 되고 있다는걸 알려주니 편리하다. / 액정이 나가거나 술을 먹어서 눈앞이 캄캄해도 핸드폰은 충전해야하니 충전이 되는걸 알려주는건 아주 좋은거 같다.
