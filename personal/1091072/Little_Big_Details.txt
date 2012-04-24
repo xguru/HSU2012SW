@@ -1,0 +1,38 @@
+사례 10개이상 선정해서 다음항목을 정리
+
+- URL
+
+- 디테일 내용이 뭔지 설명
+
+- 선정이유 / 자신이 느낀점
+1.http://littlebigdetails.com/post/19953541857/notes-trash-can-jumps-up-and-receives-deleted
+메모를하고 삭제를할때 아래 있는 휴지통 버튼을 누르면 휴지통으로 빨려들어가면서 삭제를 하는 기능
+삭제기능이 별도의 메뉴에 없고 아래에 조그만 아이콘으로 있는데, 빨려들어가는 모양이 독특하면서도 실제로 쓰레기가 쓰레기통으로들어가는 느낌이라 재밌다.
+2.http://littlebigdetails.com/post/18902598391/google-search-when-hovering-over-a-suggestion
+사진미리보기기능, 검색에대한 미리보기 기능
+마우스를 가져다 대면 미리보기가 되면서 사진이 커지는 기능이 편리한 것 같다.
+3.http://littlebigdetails.com/post/18552500242/facebook-in-the-people-list-of-an-event-people
+친구인사람은 이미지카 크게 뜨고 옆에 이름도 함께뜨지만 알지도 모른는 사람들은 아래에 작게 프로필이 뜬다.
+페이스북을 하면서 알지도모르는 사람의 프로필이 작게 뜨는 기능은 친구와 구분할 수 있으면서도, 아는 사람을 찾기에도 유용한 것 같다.
+4.http://littlebigdetails.com/post/18495659529/ios-lower-corner-radius-changes-when-keyboard
+키보드팝업이 올라갔을때, 아랫쪽 코너에 반경이 바뀌는 것이다.
+나는 이 기능을 보고 사람들이 별 관심이 없다는 것에 관심이 갔다. 사람들은 별로 유용하지 않다고 하는 것 같으나 그냥 미적인 단순한 기능으로 봐야할 것 같다.
+5.http://littlebigdetails.com/post/18396452619/google-maps-when-zooming-in-to-the-maximum-the
+최대로 줌을 땅기면, 줌버튼은 거리뷰의 다음 줌 레벨을 가리키는 거리뷰버튼과 합쳐진다.
+나는 이기능이 별것 아님에도 사소한 차이로 줌이 최대로 당겨졌을때가 그렇지 않은 것에 구분지어 알려준다는 것에 매우흥미로웠다.
+6.http://littlebigdetails.com/post/17373200275/youtube-when-typing-in-the-search-box-the
+유투브에서, 검색했을때 비디오를 가리지 않도록 자동완성 기능의 크기를 제한할 수 있는 기능이다. 
+비디오를 보다가 검색했을때, 비디오가 온통 자동검색으로 가려져서 불편했던 적이 있던 것 같다. 자동완성기능 크기 제한은 비디오를 볼수 있으면서도 검색을 할수 있어 매우 유용한 것 같다.
+7.http://littlebigdetails.com/post/14564768064/gmail-when-attempting-to-sign-in-with-an
+g-mail에서 잘못된 패스워드를 썻을때, 패스워드를 언제 바꿨는지 알려준다.
+패스워드를 자주 바꿔야되는데, 자주쓰는 패스워드가 많아서 가끔 로그인을 할 때 헷갈리기도 한다. 이 기능은 로그인할 때 패스워드 바꾼 사실을 잊었을때 좋은 것 같다.
+8.http://littlebigdetails.com/post/14404622595/facebook-when-new-family-member-is-added
+페이스북에서 새로운 가족멤버를 추가할때, 페이스북이 자동으로 인식하고 가족의 성과 가족관계의 리스트를 조정해준다.
+이것은 자동으로 조정해준다는 것에서 좋은 기능 같은데, 페이스북 옵션을 내가 만들 수 없다는 것은 조금 수정해야 할 부분인 것 같아서 이 기능을 선택했다.
+9.http://littlebigdetails.com/post/13938282750/batch-when-enabling-the-camera-flash-the-camera
+카메라에 플래시를 켜놨을때, 카메라아이콘에 작고하얀 플레시가표시되어있는 기능이다.
+카메라를 쓸 때 이전의 설정으로 원하지 않게 플래시가 터질 때 있다. 그럴땐 번거롭게 찍고 나서야 다시 플래시 설정을 바꾸는데, 셔터버튼에 알려주는 기능이 있으면 좋을 것 같다.
+10.http://littlebigdetails.com/post/12072708713/apple-the-mickey-mouse-watch-on-apples-ipod
+미키마우스시계다. 미키마우스의 손으로 시침과 분침을 알려주는 기능이다.
+디자인이 너무 독특하고 귀여웠다. 미키마우스라는 귀여운 캐릭터와 캐릭터만의 손동작과 모양을 살려 아날로그 시계로 만들었다는 것은 디자인면에서 매우 뛰어난 발상인 것 같다.
+
