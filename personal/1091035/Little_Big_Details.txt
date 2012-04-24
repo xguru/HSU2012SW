@@ -1,0 +1,42 @@
+1. Mixcloud - The favicon indicates whether the music is playing or paused.
+여러탭을 사용중일때 소리가 나는데 어느 탭에서 나는 소리인지 탭만보고는 알수가 없다.
+재생중인지 정지중인지 탭에 표시해준다면 한눈에 쉽고 빠르게 찾을수 있어 편리할것 같다.
+
+2. Facebook iPad app
+When tapping a tab that is already open, the content wiggles when the sidebar disappears.
+페이스북에서 왼쪽에 메뉴탭을 사용하지 않을때는 사라지게 했다. 이것은 화면의 공간 확보도
+더 많이 해준다.
+
+3.iOS 5
+When the phone is locked, you can “slide to view” the notifications themselves, taking you directly to the app.
+가끔씩 중요한 사진을 찍을때면 바로 실행하고 싶을 때가 있을 것이다.
+이런 소비자의 마음을 이해한 디테일이란 것이 느껴진다.
+
+4.Chrome
+When uploading files, the usual blue rotating circle in the tab bar becomes gray and spins counterclock-wise.
+여러페이지가 탭을 이용할때 어느 탭이 로딩이 끝났는지 웹을 열어보지 않고도 확인할수 있다.
+
+5.Twitter sign up password form
+비밀번호가 길고 복잡할수록 강력하다는 것을 알려준다는 점이 인상적이다.
+
+6. Flickr
+When uploading files, it shows percentage in the tab, so you can always see the load progress while surfing other sites.
+로딩 퍼센트를 탭창에서 보여주는 친절함에 그저 놀라울 뿐이다.
+
+7. Google Maps - The “map” or “satellite” button” shows the actual area behind it.
+과거에는 추상화된 맵 이미지만을 보여 주었는데 이제는 인공위성 사진을 제공함으로 더 실제감이
+느껴진다.
+
+8. Google Docs - Lets you choose your table layout in a very visual way.
+표를 만들때 가끔씩 행과 렬이 헷갈릴때가 있는데 시각적으로 어떤표가 생성되는지 보여준다면
+실수없이 표를 만들수 있다.
+
+9. Yahoo - Trying to sign up using a future date won’t work
+잘못 입력한 점을 바로바로 알려준다면 다시 되돌아 와서 수정하는 번거로움이 해결된다.
+
+10. iOS Safari
+When you’re typing something followed by a dot in address bar, pressing the .com key,
+will result in a perfect one-dot spelling anyway.
+Then when you press it longer it shows you other domain options.
+자주 사용하는 com/org/edu/..를 상용구처럼 자판에 미리 등록하여 사용자에게 편리함을 제공해 주었다.
+
