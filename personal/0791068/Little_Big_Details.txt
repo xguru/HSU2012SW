@@ -1,0 +1,66 @@
+1.url: http://littlebigdetails.com/post/14671757055/path-when-signing-up-as-a-new-member-the-iphone
+
+detail: 신규 회원으로 가입하면, 아이폰 애플 리케이션이 주소록에서 연락처 정보를 가져옵니다.
+
+선정이유: 어떤 사이트를 가입할때 매우 유용하고 간편하게 자신의 정보를 가져올 수 있어서 그 편리함 때문에 선정
+
+
+2.http://littlebigdetails.com/post/14511569223/ios-when-merging-icons-the-drawer-created-gets
+
+detail: ios-아이콘을 병합하면 만든 서랍이 안에 애플 리케이션의 적절한 분류 또는 장르의 이름을 얻을 수 있다.
+
+선정이유: 자신의 편의대로 어플들을 종류별로 또는 적절하게 분류 시켜 깔끔하게 화면을 나타낼 수 있고 이름까지
+ 정할 수 있기때문에 심플한 것을 좋아하는 저에게 있어서는 안성맞춤
+
+
+ 3.http://littlebigdetails.com/post/12791899056/weather-app-swiping-down-in-ios-5s-weather-app
+
+ detail: 날씨응용프로그램-ios 5의 기상 응용 프로그램에서 시간별 예보를 보여준다.
+
+ 선정이유: 아침에 일어나 시간별 날씨가 어떤지 확인하는 것은 오늘은 무엇을 입을지 어떤 신발을 신을지에 대해 
+ 머릿속으로 예상할 수 있게 해주기 때문에 선정
+
+ 4. http://littlebigdetails.com/post/7974713512/ios-safari-when-youre-typing-something-followed
+
+ detail: ios 사파리- .com키 누르고 있을 때 또 다른 도메인 옵션을 보여준다.
+
+ 선정이유: .com이나 도다른 도메인 키를 손쉽게 누를 수 있는 편리함 때문에 선정
+
+ 5.http://littlebigdetails.com/post/5420352205/youtube-allows-user-to-play-snake-with-keyboard
+
+ detail: youtube에서 비디오를 로드하거나 일시 중지되었을때 사용자는 키보드 화살표로 뱀을 재생할 수 있다.
+
+ 선정이유 : 동영상 등을 로딩하면서 지루할때 조금 덜 지루하게 해주기 때문에 선정
+
+
+ 6.http://littlebigdetails.com/post/5360149977/windows-7-hover-colors-of-dock-buttons-change
+
+ detail: 윈도우7- 애플 리케이션 아이콘의 색깔에 따라 아이콘 위에 마우스를 올렸을때 색깔이 어플색과 같이 변경된다.
+
+ 선정이유: 어플색과 아이콘 색깔이 변하기때문에 눈에 좀더 쉽게 보여지기 때문에 선정
+
+ 7.http://littlebigdetails.com/post/2133952633/svvply-hovering-a-shop-item-shows-information
+
+ detail: 상품의 상점항목을 보여줌으로서 직관적으로 정보를 보여줌
+
+ 선정이유: 옷이나 아이템등의 정보를 손쉽게 알 수 있기 때문에 선정
+
+ 8.http://littlebigdetails.com/post/1486715199/imovie-11-audio-editing-change-the-volume-of-a
+
+ detail: imovie 오디오편집- 그 부분을 선택하고 볼륨 슬라이더를 드래그하여 클립의 부분의 볼륨을 변경합니다.
+
+ 선정이유: 별도의 편집프로그램 없이 imovie오디오 편집을 통해 볼륨 설정할 수 있는게 편리하기때문에 설정
+
+ 9. http://littlebigdetails.com/post/1452669377/twitter-sign-up-password-form
+
+ detail: twitter의 암호 양식을 가입할때 난이도를 보여줌
+
+ 선정이유: 암호를 설정할때 이 암호가 어느정도로 안전한지 알 수 있기때문에 선정
+
+
+ 10.http://littlebigdetails.com/post/1448411575/youtube-video-timeline-shape-and-position-of
+
+ detail: 유투브 비디오 타임라인 -시간 위치의 현재를 알려줌
+ 선정이유: 시간위치를 알 수 있기 때문에 영상을 뛰어넘어 보거나 다시보기가 가능할 수 있다는 점에서 선정
+
+
