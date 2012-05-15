@@ -1,0 +1,14 @@
+IaaS
+-전산 인프라를 서비스로 제공하는 기능.
+-국내 : https://ucloudbiz.olleh.com/
+-해외 : http://www.chimehost.com/virtual-private-servers/
+
+PaaS
+-미리 개발이 된 플랫폼을 따로 구축을 할 필요가 없이 웹에서 쉽게 사용이 가능하게 만드는 모델.
+-국내 : http://www.daou.com/
+-해외 : http://www.salesforce.com/
+
+SaaS
+-소프트웨어를 서비스로 웹 환경에서 제공하는것. 소프트웨어의 또 다른 배포 형태.
+-국내 : http://www.bizmekakt.com/ 비즈메카 그룹웨어 서비스
+-해외 : http://www.salesforce.com/
