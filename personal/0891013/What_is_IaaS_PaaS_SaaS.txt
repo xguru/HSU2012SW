@@ -1,0 +1,23 @@
+IaaS (Infrastructure as a Service)
+IaaS는 virtual computers, cloud storage, network infrastructure components를 모두
+제공한다. 
+새롭게 론칭하는 회사의 응용프로그램이나 웹사이트가 어느정도의 성공을 거둘지 모르는 상태일 때 사용하기 적합하다고 한다. 
+Amazon이 IaaS의 선구자라고 한다. 
+뒤따르는 제공자로는 Rackspace, GoGrid, Joyent, Rightscale등이 있다고 한다.
+우리나라에는 올레 유클라우드가 서비스를 제공하고 있다.
+
+PaaS (Platform as a Service)
+PaaS는 소프트웨어가 개발가능하고, 테스트가능하고, 발전가능하게 한 플랫폼이다.
+다시 말하면 소프트웨어의 라이프사이클이 PaaS상에서 가능한 것이다. 
+PaaS는 일반적으로 개발환경, 프로그래밍 언어, 컴파일러, 테스트 툴 등을 포함한다. 
+예를 들어 구글앱엔진에서 개발자가 개발환경을 다운 받고 그 개발자의 인프라에 맞게 사용할 수 있다.
+오직 응요프로그램 개발에 집중할 때 PaaS를 사용하는 것이 적합하다고 한다.
+GAE(Google Apps Engine)은 가장 유명한 java, python 플렛폼을 제공한다.
+우리나라에는 SKT, 넥스알, 네이버와 다음의 open api등이 서비스를 제공하고 있다.
+
+SaaS (Software as a Service)
+SaaS는 서비스로서 어플리케이션을 제공하는 것이다.
+서비스 제공자는 매우 높은 관리능력과 믿을만한 업데이트, 유지, 보안등의 능력을 가지고 있다. 
+필요한 때에 그 소프트웨어를 웹으로 접속해서 사용하는 형태이다. 
+그 때 요금이 징수된다. 예를 들어 Gmail에서는 google이 제공자이고 우리는 사용자이다.
+우리나라에는 LG U+ 스마트 SME 등이 서비스를 제공하고 있다.
