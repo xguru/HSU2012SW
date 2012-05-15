@@ -1,0 +1,10 @@
+IaaS-Infrastructure as a Service의 약자. 인프라 제공 서비스 형태. 고객이 가상의 서버 인스턴스를 빌려 쓰는것.
+     
+PaaS-Platform as a Service의 약자. 플랫폼을 소프트웨어 제공을 위해 제공함. 플랫폼 기반하에 웹상에서 다양한 소프트웨어 만들 수 있음.
+
+SaaS-Software as a Service의 약자. 웹에서 소프트웨어를 빌려 씀. 웹2.0 트랜드에서 함께 논의됨. 
+
+국내/국외 사례
+IaaS:KT ucloud biz
+PaaS:Java IDE
+SaaS:VDI(가상데스크탑인프라구조)
