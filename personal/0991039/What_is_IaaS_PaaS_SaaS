@@ -1,0 +1,17 @@
+IaaS, PaaS, SaaS 는 cloud service 를 구성하는 유형들입니다.
+그중에 IaaS는 Infrastructure as a Service 의 약자로 가상의 빌딩 
+블록 환경을 만들어 액세스 형태로 cloud 서비스를 제공해주거나 기
+본 서비스를 제공해줄수 있게 필요한 IT자원을 제공합니다. 그 해외
+의 예는 Rackspace 이고, 국내의 예는 Ucloud 가 있습니다.
+다음으로 PaaS 입니다. PaaS는 Platform as a Service 로써 플랫폼을
+ 서비스로 제공한다는 뜻입니다. IaaS 가 기반이 되고, 호스트가 소
+프트웨어나 제품 개발 플랫폼을 웹을 통해서 쉽게 빌려 쓸 수 있게 
+만들어진것 입니다. 우리의 API를 클라우드 호스트에 주는 것도 PaaS 
+입니다. 해외의 예는 GoogleAppEngine 이 있고, 국내의 예는 Naver의 
+OPEN API 가 있습니다.
+마지막으로 SaaS 입니다. Software as a Service 의 약자로써 소프트
+웨어로 제공한다는 뜻입니다. ASP 모델이 기원이 되는 SaaS는 소프트
+웨어를 호스트에 접속하여 클라이언트나 웹으로 제공받는 형태로 가
+장 일반적으로 사용하는 Cloud service 입니다. 해외 업체는 Salefor
+ce 라는 회사가 있고, 국내에는 네이버, 다음, 야후 등 이 있습니다. 
+SaaS는 이메일 부터 대다수의 다양한 범위에 해당됩니다.
