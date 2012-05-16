@@ -1,0 +1,25 @@
+IaaS?
+-IaaS는 Infrastructure as a Service의 약자이다.
+인프라 제공 서비스 형태를 말한다.
+고객이 클라우드 데이터 센터로 부터 필요한 만큼의 가상의 서버 인스턴스를 임대해 
+사용하는 것을 의미한다.
+Amzon Cloudfront, SimpleDB, Microsoft LiveMesh등과 같은 컴퓨터 시스템 HW자원(CPU,Disk등)을 서비스로 제공하는 유형
+대표적으로 KT ucloud biz, ncloud24가 있습니다
+예 : cloud server, cloud storage, cloud backup, CDN(Contents Delivery Network)  
+  
+PaaS? 
+-PaaS는 Platform as a Service의 약자이다. 
+소프트웨어 제공을 위한 플랫폼을 제공하며 
+그 플래폼 기반하에서 다양한 소프트웨어를 웹상에서 만들 수 있는 기반을 제공하는 것으로
+Saas의 개념을 개발 플랫폼에도 적용한 방식이라고 할 수 있습니다.
+Microsoft Azure, Amzon Checkout, Google App Engine 등과 같은 SW개발환경(개발 언어등)을 서비스로 제공 하는 유형을 말한다.
+예 : cloud db(MySQL, MS-SQL, Oracle), Java플랫폼(Java IDE), APM플랫폼(Apache+PHP+MySQL)등...  
+  
+SaaS? 
+-SaaS는 Software as a Service의 약자이다.
+CRM과 같이 소프트웨어를 서비스로서 웹을 통해 제공하는 
+것으로 웹표준화 기술을 사용하여 웹에서 소프트웨어를 빌려 쓰는 방법으로 Web2.0 트렌드에서 함께 
+논의되는 개념으로 기존의 ASP에서 좀더 진보된 SW 제공방식입니다.
+Google Docs, Microsoft Office Live,  IBM Lotus 등과 같은 소프트웨어의 배포형태로, 서비스형 소프트웨어라고도 하며, 
+사용자들은 필요한 기능만 이용을 하고 이용한 만큼만 요금을 지불하는 형태
+예 : VDI(Virtual Destop Infrastructure), Office hosted svc, 클라우드앱, 그룹웨어  
