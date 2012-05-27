@@ -1,0 +1,63 @@
+#pragma strict
+
+//use; System.Collections;
+static var level = 0;
+var ball : GameObject;      // 怨?var textureLevel : Texture ;
+var textureBar : Texture;
+static var temp =0;
+var level_Control=0;
+var temp_Control=0;
+function Start()//start할떄 변수 다 초기화.
+{
+	level=0;
+	temp=0;
+	level_Control=0;
+	temp_Control=0;
+}
+
+function Update() {//매프레임마다 Do함수 실행
+	Do();
+}
+function Do()
+{
+	if(level_Control==0)
+	{
+		level++;//level은 파워값.. 계속 올라갔다가 100이상되면 다시 0부터 계속올라감.
+		level++;
+	}
+	
+	if(Input.GetButtonDown("Fire1")) {
+		level_Control=1;//fire1누르면 레벨컨트롤이 1이됨. 1이될경우 scene에서 파워게이지가 멈춤. 
+    	ball.rigidbody.AddForce(Vector3.forward * level * 8);//레벨값*8만큼 ball을 앞방향으로 쏜다.
+    	temp=level*2;//쏘고난 이후 줄어드는 시간조절해서 버튼생성. 시간이 0이하로되면 버튼생성됨.
+   	}
+   	if(level_Control==1) 
+   		Temp_minus();//temp를 --해주는 함수.
+}
+
+function Temp_minus()
+{
+	if(temp>0) temp_Control=0;
+	if(temp<0) temp_Control=1;
+	if(temp_Control==0) temp--;
+	if(temp_Control==1) ;
+}
+
+function OnGUI ()
+{
+		
+
+		if(level > 100) level=0;//레벨이 100 초과할경우 0으로 다시 초기화.
+		
+		GUI.BeginGroup(new Rect(85,30,textureLevel.width,textureLevel.height));//GUI들을 한번에 묶어서 설정.
+      
+      
+      
+			GUI.DrawTexture(new Rect(50,20,130*(level/100.0),textureBar.height), textureBar);//textureBar level의값이 달라짐에따라 게이지바가 올라감..
+			GUI.DrawTexture(new Rect(0,0,textureLevel.width,textureLevel.height), textureLevel);//texturelevel 설치.
+			GUI.Label(Rect(0,20,100,20), level.ToString());//level의 값을 보여줌.
+			
+		GUI.EndGroup();//GUI 묶은거 설정 끝.
+		
+		
+}

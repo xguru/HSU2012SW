@@ -1,0 +1,31 @@
+#pragma strict
+ 
+static var hit = 0f;
+var ball:GameObject;
+var line:GameObject;
+var NAK : Texture;
+var Menu : Texture;
+private var ttime : float = 0.0;
+
+function OnGUI() {
+	
+	//temp값은 파워값. jsBall의 전역변수로 선언했고, 파워값은 계속 줄어듬. or ball의 y축이 0이하일때 . gui출력
+	if(jsBall.temp<0 || ball.transform.position.y<=0)
+	{
+		if(GUI.Button(new Rect(230,220,NAK.width,Menu.height), NAK))
+   			Application.LoadLevel("500_ing");//restartGUI. 다시 재시작누른 scene으로 이동.
+   		if(GUI.Button(new Rect(180,110,Menu.width,Menu.height), Menu))
+   			Application.LoadLevel("500_Start");//MainmenuGUI. 메인메뉴 scene으로 이동.
+	}
+	
+	
+	
+	
+	hit = line.transform.position.z-ball.transform.position.z;
+	if(hit<0)//hit변수는 거리임. line의z축-ball의z축. 
+	{
+		hit=hit*(-1);
+	}
+    GUI.Label(Rect(350, 20, 120, 20), "거리: " + (hit*10) + "cm");//거리출력하는 Label.
+    GUI.Label(Rect(480, 20, 120, 20), "Power : " + jsBall.level);    //fire1눌렀을 당시 파워 출력하는 Label
+}

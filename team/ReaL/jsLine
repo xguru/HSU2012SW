@@ -1,0 +1,11 @@
+#pragma strict
+var line : GameObject;
+
+function Start () {
+	line.transform.position.x = 0;
+	line.transform.position.y = 0;
+	line.transform.position.z = Random.Range(-2,9); //line을 z축 (-2)~9 사이에서 랜덤으로 생성.
+}
+function Update () {
+
+}
