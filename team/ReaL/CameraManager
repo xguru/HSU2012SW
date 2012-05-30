@@ -1,0 +1,43 @@
+#pragma strict
+
+var subC : GameObject;   //서브카메라.
+
+var cameraManager : CameraManager;
+function Start()//시작시 메인카메라 온
+{
+	mainCameraOn();
+}
+function mainCameraOn(){//카메라상태함수.
+	mainC.camera.enabled = true;
+	subC.camera.enabled = false;
+	allC.camera.enabled = false;
+}
+function subCameraOn(){
+	mainC.camera.enabled = false;
+	subC.camera.enabled = true;
+	allC.camera.enabled = false;
+}
+function allCameraOn(){
+	mainC.camera.enabled = false;
+	subC.camera.enabled = false;
+	allC.camera.enabled = true;
+}
+
+function Update() {//1,2,3키 입력시 카메라 뷰 변경
+	if(Input.GetKey("1"))
+	{
+		cameraManager.allCameraOn();
+	}
+	if(Input.GetKey("2"))
+	{
+		cameraManager.mainCameraOn();
+	}
+	if(Input.GetKey("3"))
+	{
+		cameraManager.subCameraOn();
+	}
+	if(Input.GetButtonDown("Fire1"))//fire1버튼 누를시 서브카메라 온.
+	{
+		cameraManager.subCameraOn();
+	}      
+}

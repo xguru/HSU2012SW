@@ -1,0 +1,17 @@
+#pragma strict
+ 
+var Start : Texture;
+var Option : Texture;
+
+function OnGUI ()//게임시작화면 메인메뉴화면. 
+{
+	if( GUI.Button(new Rect(200, 150, 280, 80), Start) )
+	{
+		Application.LoadLevel("500_ing");//게임실행버튼.
+	}
+	if( GUI.Button(new Rect(200, 250, 280, 80), Option) )
+	{
+		Application.LoadLevel("500_Option");//옵션화면.
+	}	
+	
+}
