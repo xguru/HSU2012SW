@@ -1,0 +1,19 @@
+1.Android ICS - The screen skews when you try to swipe further in that direction. 화면을 터치가 된 방향으로 밀면 기울어지도록 하는 기술이다. 일단 내가 터치하는 방향으로 화면이 기울기 때문에 쉽게 터치가 제대로 되는지 알 수 있고 무었보다 내가 선정한 이유는 시각적으로 보여주는 영상이 그저 평면인 화면보다는 동적인 느낌을 줘서 보기 좋았다.
+
+2.Mail - Mail gives you the option to display the telephone number across your entire screen so it’s easier for you to read and dial it. 메일을 받으면 받은사람에게 보낸사람의 전화번호를 주는 프로그램이다. 하지만 보낸 사람이 원치 않으면 보내지 않도록 설정하는 부분이 있어야할 것이다. 아마도 프로그램 만든 사람이 구현했을 것 같지만 만약 구현이 안됬을 경우 우리 교수님만 하더라도 학생들의 과제 질문에 대한 질의전화로 하루 종일 시달리셔서 잠도 제대로 주무실 시간이 없을 것이다. 하지만 반대로 메일을 수신한 사람에게는 획기적인 프로그램인 것 같다. 항상 메일에 대한 답을 하고 기다려야 했지만 전화번호가 온다면 바로바로 의사소통을 할 수 있는 장점이 있다.
+
+3.OSX - When unplugging your headphones from a Mac, it automatically reverts to the most recent volume settings of the new output device. 맥에서 해드폰을 분리시키면 최근의 볼륨설정으로 자동으로 돌아가는 프로그램이다. 맥용으로만 말고 일반 다른 OS에도 적용시키면 좋을 것 같다. 가끔씩 노트북이나 PC를 이용할 때 이어폰으로 영화나 노래를 듣다가 분리시켰을 때 볼륨이 너무 작거나 너무 커서 불편한 점이 있었는데 내가 임의로 세팅만 하면 적당한 볼륨크기로 나와서 좋을 것 같다.
+
+4.iOS Notification Center - When swiping on a notification, it tells you exactly where you’re going in the application 내가 핸드폰에 모션을 취할 때 이 프로그램은 즉시 나에게 어떤 어플리케이션으로 가는 지 알려준다. 별 것 아닌 것 같은 기능이지만 그저 밀어서 그다음 그 프로그램이 먼지 아는 것보다 바로 내가 핸드폰 잠금을 풀 때 알려줘서 사람들에게 조금이라도 더 유용한 가치를 줄 수 있어서 선택했다.
+
+5.iOS Safari - When you’re typing something followed by a dot in address bar, pressing the .com key, will result in a perfect one-dot spelling anyway. Then when you press it longer it shows you other domain options. 만약 핸드폰 터치로 타이핑 할 때에 .com 밖에 단축키가 없지만 이 기술은 .net .edu .org등의 여러 종류의 도메인 옵션을 보여줘서 훨씬 빠르고 간편하게 홈주소를 타이핑 할 수 있다.
+
+6.iOS - When “Character count” in iOS is turned on, it will show the character count only if you have at least two lines of text. 문자 같은 것을 입력할 때 적어도 두 개의 라인이 있는 경우에는 ISO에서 문자 개수가 있으면 문자 개수를 표시해 준다. 가끔씩 문자를 보내다가 문자 수를 초과해서 컬러 메일로 보낸 적이 있었는데 이 기능을 추가하면 내가 어느 정도의 문자 개수를 썻는 지 알 수 있어서 유용할 것 같다
+
+7.iOS - When opening a folder, little triangle slides down with the folder’s contents. 내가 스마트 폰에서 폴더를 열었을 때 열 폴더를 제외 한 나머지 폴더들은 투명도를 줘서 어두워지는 효과를 넣어주었다. 이 프로그램을 사용하면 선택한 폴더에 대한 강조 효과를 볼 수 있을 것 같고 시각적으로도 훨씬 뛰어날 것 같아서 선택했다.
+
+8.iA Writer - The icon adapts when it is displayed in different sizes 이 프로그램은 정말 어플리케이션에 적용하면 유용할 것 같다. 이미 나왔지만 내가 못 찾는 것일 수도 있지만 내 사용 가지에 따라 크기를 설정해 줄 수 있다면 자주 사용하고 중요한 어플리케이션 아이콘은 큰 사이즈로 만들어서 사용할 때 더 유용할 수 있어서 좋을 것 같다.
+
+9.Wunderlist - When tapping the button “Forgot Password?”, it’ll automatically use the email previously used while trying to sign in. 이 프로그램은 Forgot Password 키 너 비번잃어버렸어? 키를 누르면 내가 로그인을 시도하는 동안 자동으로 사용하던 이메일로 비밀번호를 보내주는 프로그램이다. 보안적인 문제가 있을 것 같지만 잘만 해결한다면 비밀번호를 잃어 버렸을 때 찾는 시간을 아껴줘서 좋을 것 같다. 나 같은 경우도 홈페이지 게임 비밀번호를 여러 패턴으로 저장해놔서 자주 비밀번호를 까먹을 때가 많아서 매우 유용할 것 같다.
+
+10.Reeder for Mac  - If you have unread news items, the dock icon looks like box filled with papers. When you have nothing to read, it looks like an empty box. Mac용 Reeder인데 내가 읽을 뉴스 항목이 있다면 이미지가 서류가 가득한 박스이고 내가 읽을 거리가 없다면 빈 상자의 이미지가 나오는 프로그램이다. 만약 내가 뉴스를 다 읽거나 읽을 거리가 없다면 괜히 여러 동작을 하는 수고를 덜 수 있어서 좋은 프로그램 인 것 같다.
