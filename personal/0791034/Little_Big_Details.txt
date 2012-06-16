@@ -1,0 +1,43 @@
+한성대학교 멀티미디어공학과 0791034 장기수
+http://littlebigdetails.com/ 사이트를 둘러볼 것 > 10개 이상 맘에 드는 것 / 인상적인 것들을 뽑고 이유를 적을 것
+
+
+http://littlebigdetails.com/post/18902598391/google-search-when-hovering-over-a-suggestion
+- 구글 검색에서 추천검색에서 마우스를 올리면 preview를 보여준다.
+- 왜 추천검색에 올라와 있나 알려줌으로 연관검색의 신뢰를 올려준거 같다.
+
+http://littlebigdetails.com/post/10035407518/google-google-wishes-you-happy-birthday-based-on
+- 구글에 접속했을때 구글+의 사용자 프로필을 기초로하여 사용자 생일을 축하해 줍니다 .
+- 메인베너는 가장 중요한 이벤트들을 다루는데 생각지 못한 곳에서 생일 축하를 해줄 생각을 하다니 기발합니다. 기술적으로도 너무 훌륭한 것 같습니다.
+
+http://littlebigdetails.com/post/8993301435/mac-app-store-while-downloading-a-new-app-the
+- 앱을 다운로드 할 때, 다운로드 진행에 따라 아이콘 투명도가 변합니다.
+- 시각적인 자극을 통한 경과의 보고는 지루함을 덜어 줄 수 있는 것 같습니다.
+
+http://littlebigdetails.com/post/18552500242/facebook-in-the-people-list-of-an-event-people
+- 친구의 이미지의 옆에는 이름도 함께 뜨지만, 알지도 모르는 사람들의 추천에는 사진만 작게 뜬다.
+- 작은 차이로 철저한 구분을 해 놓은 것이 인상적입니다.
+
+http://littlebigdetails.com/post/20526837044/android-ics-the-screen-skews-when-you-try-to
+- 화면을 더 넘기려 할 때, 화면이 돌아갑니다.
+- 자신이 하고 있는 입력이 먹히지 않음을 시각적으로 나타내 준 것이 섬세한 배려 같습니다.
+
+http://littlebigdetails.com/post/18396452619/google-maps-when-zooming-in-to-the-maximum-the
+- 최대로 줌을 땅기면, 줌 버튼이 거리뷰로 넘어가는 링크로 합쳐진다.
+- 시각적인 변화를 주어, 이제 당신이 누르고 있는 버튼이 다른 기능을 할 것임을 알려주는게 좋다.
+
+http://littlebigdetails.com/post/16921628245/twitter-twitter-displays-links-without-the
+- http://를 붙이지 않고 글을 등록해도 알아서 붙여준다.
+- 작은 기능이지만 결과를 높여주어 사용자에게 편의를 준다.
+
+http://littlebigdetails.com/post/20408492988/iphone-when-you-plug-your-iphone-it-vibrates-to
+- 아이폰에 잭을 연결하면 진동이 울린다.
+- 신경도 안쓰고 있던 것이지만, 이러한 디테일이 있으므로 제대로 충전이 되고 있다는 것을 굳이 확인하는 작업을 거치지 않아도 알 수 있다. 
+
+http://littlebigdetails.com/post/12161973937/google-chrome-beta-channel-shows-the-icons-of
+- 구글 크롬에서 인터넷 연결 끊겨있으면 아이콘의 색이 회색으로 죽습니다.
+- 시각적인 것으로 사용자에게 알려주는 것이 너무 상냥합니다.
+
+http://littlebigdetails.com/post/3638356716/google-chrome-paste-and-go-in-one-click-via
+- 붙여넣어 바로가기 기능 Ctrl+v + enter
+- 크롬에서의 우클릭 기능이 생각보다 쓸만한게 많음을 알게 해주었다. 단축키도 있어서 한 탭을 줄여주는 섬세함이 좋다.
